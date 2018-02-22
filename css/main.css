@@ -18,3 +18,7 @@
   padding: 20px 37px;
   font-size:25;
 }
+body {
+  background-color: #303235;
+  text-color: white;
+}
