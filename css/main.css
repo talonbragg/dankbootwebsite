@@ -17,7 +17,7 @@
 .button:hover {
   padding: 20px 37px;
   font-size:25;
-  text-color:white;
+  color:white;
 }
 #header {
      animation: fadein 2s;
