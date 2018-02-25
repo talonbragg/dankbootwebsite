@@ -70,3 +70,6 @@ form {
 a {
   text-decoration:none;
 }
+.col {
+  max-width:800px;
+}
