@@ -73,3 +73,7 @@ a {
 .col {
   max-width:800px;
 }
+.border {
+  border:1px #000000;
+  border-radius:5px;
+}
